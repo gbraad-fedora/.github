@@ -1,2 +1,0 @@
-# .github
-Gerard Braad @ Fedora
